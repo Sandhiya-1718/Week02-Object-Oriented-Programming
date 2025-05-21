@@ -63,12 +63,13 @@ The repository is organized by each module. You will find related code examples,
 
 | Day   | Topic Description                                                                                                  | 
 |-------|--------------------------------------------------------------------------------------------------------------------|
-| Day 1 | [Object-Oriented Programming Fundamentals](https://github.com/YourUsername/YourRepo/tree/Day-1)                    |
-| Day 2 | [Java Constructors, Instance vs. Class Variables, Access Modifiers](https://github.com/YourUsername/YourRepo/tree/Day-2) |
-| Day 3 | [this, static, final Keywords and instanceof Operator](https://github.com/YourUsername/YourRepo/tree/Day-3)         |
-| Day 4 | [Object Modeling and Class Diagrams](https://github.com/YourUsername/YourRepo/tree/Day-4)                           |
-| Day 5 | [Inheritance](https://github.com/YourUsername/YourRepo/tree/Day-5)                                                  |
-| Day 6 | [Encapsulation, Interfaces, Abstract Classes, and Polymorphism](https://github.com/YourUsername/YourRepo/tree/Day-6)|
+| Day 1 | [Object-Oriented Programming Fundamentals](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-1)                    |
+| Day 2 | [Java Constructors, Instance vs. Class Variables, Access Modifiers](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-2) |
+| Day 3 | [this, static, final Keywords and instanceof Operator](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-3)         |
+| Day 4 | [Object Modeling and Class Diagrams](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-4)                           |
+| Day 5 | [Inheritance](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-5)                                                  |
+| Day 6 | [Encapsulation, Interfaces, Abstract Classes, and Polymorphism](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-6)|
+
 
 
 ## ⏭️ Next Steps
