@@ -2,23 +2,33 @@
 
 Welcome to Week 2 of our Java learning journey! This week focuses on the core concepts of Object-Oriented Programming (OOP) in Java.
 
-## Table of Contents
+## 📑 Table of Contents
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+  - [Day 1: Object-Oriented Programming Fundamentals](#day-1-object-oriented-programming-fundamentals)
+  - [Day 2: Java Constructors, Instance vs Class Variables, Access Modifiers](#day-2-java-constructors-instance-vs-class-variables-access-modifiers)
+  - [Day 3: this, static, final Keywords and instanceof Operator](#day-3-this-static-final-keywords-and-instanceof-operator)
+  - [Day 4: Object Modeling and Class Diagrams](#day-4-object-modeling-and-class-diagrams)
+  - [Day 5: Inheritance](#day-5-inheritance)
+  - [Day 6: Encapsulation, Interfaces, Abstract Classes, and Polymorphism](#day-6-encapsulation-interfaces-abstract-classes-and-polymorphism)
+- [Prerequisites](#prerequisites)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Next Steps](#next-steps)
 
-| Day   | Topic Description                                                      | Link to Branch                                                                                   |
-|-------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Day 1 | [Object-Oriented Programming Fundamentals](#day-1-object-oriented-programming-fundamentals)           | [Day-1](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-1)         |
-| Day 2 | [Java Constructors, Instance vs. Class Variables, Access Modifiers](#day-2-java-constructors-instance-vs-class-variables-access-modifiers) | [Day-2](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-2)         |
-| Day 3 | [this, static, final Keywords and instanceof Operator](#day-3-this-static-final-keywords-and-instanceof-operator)               | [Day-3](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-3)         |
-| Day 4 | [Object Modeling and Class Diagrams](#day-4-object-modeling-and-class-diagrams)                        | [Day-4](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-4)         |
-| Day 5 | [Inheritance](#day-5-inheritance)                                                                   | [Day-5](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-5)         |
-| Day 6 | [Encapsulation, Interfaces, Abstract Classes, and Polymorphism](#day-6-encapsulation-interfaces-abstract-classes-and-polymorphism) | [Day-6](https://github.com/Sandhiya-1718/Week02-Object-Oriented-Programming/tree/Day-6)         |
-
-
-## Overview
+## 🧠 Overview
 
 This week is dedicated to learning and mastering Object-Oriented Programming concepts in Java.
 
-## Topics Covered
+## 📘 Topics Covered
+
+| Day   | Topic Description                                                      | 
+|-------|------------------------------------------------------------------------|
+| Day 1 | [Object-Oriented Programming Fundamentals](#day-1-object-oriented-programming-fundamentals)           |
+| Day 2 | [Java Constructors, Instance vs. Class Variables, Access Modifiers](#day-2-java-constructors-instance-vs-class-variables-access-modifiers) | 
+| Day 3 | [this, static, final Keywords and instanceof Operator](#day-3-this-static-final-keywords-and-instanceof-operator)               | 
+| Day 4 | [Object Modeling and Class Diagrams](#day-4-object-modeling-and-class-diagrams)                        |         |
+| Day 5 | [Inheritance](#day-5-inheritance)                                                                   |
+| Day 6 | [Encapsulation, Interfaces, Abstract Classes, and Polymorphism](#day-6-encapsulation-interfaces-abstract-classes-and-polymorphism) | 
 
 ### Day 1: Object-Oriented Programming Fundamentals
 - Introduction to OOP concepts: classes, objects, and methods  
@@ -45,8 +55,21 @@ This week is dedicated to learning and mastering Object-Oriented Programming con
 ### Day 6: Encapsulation, Interfaces, Abstract Classes, and Polymorphism
 - Principles of encapsulation  
 - Using interfaces and abstract classes  
-- Understanding polymorphism and dynamic method dispatch  
+- Understanding polymorphism and dynamic method dispatch
 
-## How to Use This Repository
+## 🛠️ Prerequisites
+
+- Completion of Week 1 Java Basics (especially familiarity with Java syntax, variables, control flow, arrays, strings, and functions).
+- A computer with a supported operating system (Windows, macOS, Linux).
+- Java Development Kit (JDK) installed (version 17+ recommended).
+- A code editor or Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or VS Code.
+- Basic knowledge of compiling and running Java programs from the terminal or through an IDE.
+
+
+## 📂 How to Use This Repository
 
 The repository is organized by each module. You will find related code examples, notes, and assignments in their respective folders or branches. Explore the code to reinforce your understanding and practice.
+
+## ⏭️ Next Steps
+
+Move ahead to **Week 3 - Data Structures** where you’ll explore LinkedLists, Stacks, Queues, HashMaps, Sorting & Searching algorithms, and Runtime Analysis.
